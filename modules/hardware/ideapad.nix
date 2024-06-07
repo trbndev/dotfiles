@@ -1,0 +1,3 @@
+# Ideapad specific hardware configuration
+# NOT hardware-configuration.nix but rather tweaks
+# for e.g. enabling specific keys, ...
